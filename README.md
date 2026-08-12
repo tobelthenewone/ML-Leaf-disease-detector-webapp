@@ -263,7 +263,7 @@ The prediction interface displays the processed leaf image alongside detected di
 
 Previously analyzed images can be reviewed together with their prediction metadata.
 
-<img width="1919" height="758" alt="Screenshot 2026-08-08 144119" src="https://github.com/user-attachments/assets/fdb5f4e7-4609-4062-8dfb-8e46f78e305c" />
+<img width="1919" height="887" alt="Screenshot 2026-08-08 144101" src="https://github.com/user-attachments/assets/1283b89b-d8ff-4542-89b9-f92306fa7651" />
 
 ---
 
