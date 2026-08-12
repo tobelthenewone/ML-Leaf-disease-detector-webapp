@@ -265,6 +265,8 @@ Previously analyzed images can be reviewed together with their prediction metada
 
 <img width="1919" height="887" alt="Screenshot 2026-08-08 144101" src="https://github.com/user-attachments/assets/1283b89b-d8ff-4542-89b9-f92306fa7651" />
 
+### Short demo link on youtube
+https://www.youtube.com/watch?v=CnIxsZzjQT8
 ---
 
 ## 🔑 Example Prediction
